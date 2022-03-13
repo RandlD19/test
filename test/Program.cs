@@ -8,6 +8,7 @@ namespace test
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Nova veja.");
+            Console.WriteLine("Še GitHub");
         }
     }
 }
